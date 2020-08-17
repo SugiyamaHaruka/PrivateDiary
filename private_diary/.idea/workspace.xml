@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cd0ecfd-5b91-428e-97a8-a31a5f40d889" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gDOcvgZ9D8c8nmWiQBRJoNQbRr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Haruka\venv_private_diary\Scripts\private_diary\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.runserver">
+    <configuration name="runserver" type="PythonConfigurationType" factoryName="Python">
+      <module name="private_diary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DB_USER" value="postgres" />
+        <env name="DB_PASSWORD" value="Haruka" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Haruka\venv_private_diary\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="private_diary" type="Python.DjangoServer" factoryName="Django server">
+      <module name="private_diary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.private_diary" />
+      <item itemvalue="Python.runserver" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cd0ecfd-5b91-428e-97a8-a31a5f40d889" name="Default Changelist" comment="" />
+      <created>1597645778078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597645778078</updated>
+      <workItem from="1597645779385" duration="4586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="255" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597648274820">
+      <screen x="63" y="0" width="1473" height="864" />
+    </state>
+    <state x="255" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/63.0.1473.864@63.0.1473.864" timestamp="1597648274820" />
+    <state x="535" y="194" key="EnvironmentVariablesDialog" timestamp="1597648265220">
+      <screen x="63" y="0" width="1473" height="864" />
+    </state>
+    <state x="535" y="194" key="EnvironmentVariablesDialog/63.0.1473.864@63.0.1473.864" timestamp="1597648265220" />
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1597648137994">
+      <screen x="63" y="0" width="1473" height="864" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/63.0.1473.864@63.0.1473.864" timestamp="1597648137994" />
+    <state width="691" height="221" key="GridCell.Tab.0.bottom" timestamp="1597650368103">
+      <screen x="63" y="0" width="1473" height="864" />
+    </state>
+    <state width="691" height="221" key="GridCell.Tab.0.bottom/63.0.1473.864@63.0.1473.864" timestamp="1597650368103" />
+    <state width="691" height="221" key="GridCell.Tab.0.center" timestamp="1597650368103">
+      <screen x="63" y="0" width="1473" height="864" />
+    </state>
+    <state width="691" height="221" key="GridCell.Tab.0.center/63.0.1473.864@63.0.1473.864" timestamp="1597650368103" />
+    <state width="691" height="221" key="GridCell.Tab.0.left" timestamp="1597650368103">
+      <screen x="63" y="0" width="1473" height="864" />
+    </state>
+    <state width="691" height="221" key="GridCell.Tab.0.left/63.0.1473.864@63.0.1473.864" timestamp="1597650368103" />
+    <state width="691" height="221" key="GridCell.Tab.0.right" timestamp="1597650368103">
+      <screen x="63" y="0" width="1473" height="864" />
+    </state>
+    <state width="691" height="221" key="GridCell.Tab.0.right/63.0.1473.864@63.0.1473.864" timestamp="1597650368103" />
+    <state x="309" y="75" key="SettingsEditor" timestamp="1597645961263">
+      <screen x="63" y="0" width="1473" height="864" />
+    </state>
+    <state x="309" y="75" key="SettingsEditor/63.0.1473.864@63.0.1473.864" timestamp="1597645961263" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/private_diary$runserver.coverage" NAME="runserver Coverage Results" MODIFIED="1597650322847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
